@@ -1,0 +1,5 @@
+```bash
+__pycache__/
+*.pyc
+*.pkl
+*.log
